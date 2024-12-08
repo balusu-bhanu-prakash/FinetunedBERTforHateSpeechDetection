@@ -1,6 +1,6 @@
 # FinetunedBERTforHateSpeechDetection 
 ---
-Hate Speech Detection Using Fine-Tuned BERT Models
+# Hate Speech Detection Using Fine-Tuned BERT Models
 
 This project focuses on hate speech detection by fine-tuning individual BERT models on the **Dhate dataset** for three key tasks:
 
